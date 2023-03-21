@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Homework Handle_DataTable_DataGrid">
+
+<parameter name="url" value="http://live.guru99.com" />
+
+	<listeners>
+		<listener class-name="common.MethodListener" />
+	</listeners>
+	
+	<test name="Run On Chrome">
+	
+		<parameter name="browser" value="chrome" />
+		
+		<classes>
+			<class name="com.liveguru.user.HW_Handle_DataTable_DataGrid" />
+		</classes>
+		
+		
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

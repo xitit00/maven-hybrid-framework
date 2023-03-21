@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Dependencies" parallel="classes" thread-count="5">
+
+	<parameter name="url" value="http://live.guru99.com" />
+	
+	<test name="Run On Chrome"> 
+	
+		<parameter name="browser" value="chrome" />
+		
+		<classes>
+			<class name="com.testdependencies.Level01" />
+			<class name="com.testdependencies.Level02" />
+			<class name="com.testdependencies.Level03" />
+		</classes> 
+		
+  	</test> 
+
+</suite> <!-- Suite -->

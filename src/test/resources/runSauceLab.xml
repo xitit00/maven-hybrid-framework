@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Dependencies">
+
+	<parameter name="url" value="https://www.saucedemo.com/" />
+	
+	<listeners>
+		<listener class-name="common.MethodListener" />
+	</listeners>
+	
+	<test name="Run On Chrome"> 
+	
+		<parameter name="browser" value="chrome" />
+		
+		
+	<!--< classes>
+			<class name="com.testdependencies.Level01" />
+			<class name="com.testdependencies.Level02" />
+			<class name="com.testdependencies.Level03" />
+		</classes> -->
+		
+		<packages>
+			<package name ="com.saucelab.sort"/>
+		</packages>
+		
+  	</test> 
+
+</suite> <!-- Suite -->

@@ -1,0 +1,158 @@
+<html>
+<head>
+<title>TestNG:  Run On Chrome</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Run On Chrome</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Feb 07 15:18:52 ICT 2023</td>
+</tr>
+<tr><td>Total time:</td><td>24 seconds (24892 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.nopcommerce.user.Level_22_Multiple_Environment_Owner.User_01_Register()'><b>User_01_Register</b><br>Test class: com.nopcommerce.user.Level_22_Multiple_Environment_Owner<br/>
+<a href="#Output-1913425792" onClick='toggleBox("Output-1913425792", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1913425792" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1913425792">
+[INFO ] [2023-02-07 15:19:00,674] Register - Step 01: Navigate to 'Register' page
+<br><br/>
+[INFO ] [2023-02-07 15:19:01,334] Register - Step 02: Click to Radio Button
+<br><br/>
+[INFO ] [2023-02-07 15:19:01,490] Register - Step 03: Enter to Firstname textbox with value is 'Automation'
+<br><br/>
+[INFO ] [2023-02-07 15:19:01,723] Register - Step 04: Enter to Lastname textbox with value is 'FC'
+<br><br/>
+[INFO ] [2023-02-07 15:19:01,845] Register - Step 05: Select to dropdown DateOfBirthDay with value is '24'
+<br><br/>
+[INFO ] [2023-02-07 15:19:01,972] Register - Step 06: Select to dropdown DateOfBirthMonth with value is '11'
+<br><br/>
+[INFO ] [2023-02-07 15:19:02,072] Register - Step 07: Select to dropdown DateOfBirthYear with value is '1994'
+<br><br/>
+[INFO ] [2023-02-07 15:19:02,184] Register - Step 08: Enter to Email textbox with value is 'automationfc50671@fakemail.com'
+<br><br/>
+[INFO ] [2023-02-07 15:19:02,425] Register - Step 09: Enter to Password textbox with value is '123456'
+<br><br/>
+[INFO ] [2023-02-07 15:19:02,547] Register - Step 10: Enter to Confirm Password textbox with value is '123456'
+<br><br/>
+[INFO ] [2023-02-07 15:19:02,665] Register - Step 11: Click to Check Box
+<br><br/>
+[INFO ] [2023-02-07 15:19:12,722] Register - Step 12: Click to 'Register' button
+<br><br/>
+[INFO ] [2023-02-07 15:19:13,469] Register - Step 13: Verify register success message is displayed
+<br><br/>
+</div>
+</td>
+<td></td>
+<td>13</td>
+<td>com.nopcommerce.user.Level_22_Multiple_Environment_Owner@74ad8d05</td></tr>
+<tr>
+<td title='com.nopcommerce.user.Level_22_Multiple_Environment_Owner.User_02_Login()'><b>User_02_Login</b><br>Test class: com.nopcommerce.user.Level_22_Multiple_Environment_Owner<br/>
+<a href="#Output-2011996123" onClick='toggleBox("Output-2011996123", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2011996123" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2011996123">
+[INFO ] [2023-02-07 15:19:13,633] Login - Step 01: Navigate to 'Login' page
+<br><br/>
+[INFO ] [2023-02-07 15:19:14,095] Login - Step 02: Enter to Email textbox with value is 'automationfc50671@fakemail.com'
+<br><br/>
+[INFO ] [2023-02-07 15:19:14,211] Login - Step 03: Enter to Password textbox with value is '123456'
+<br><br/>
+[INFO ] [2023-02-07 15:19:14,322] Login - Step 04: Click to 'Login' button
+<br><br/>
+[INFO ] [2023-02-07 15:19:15,777] Login - Step 05: Verify login success message is displayed
+<br><br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.nopcommerce.user.Level_22_Multiple_Environment_Owner@74ad8d05</td></tr>
+<tr>
+<td title='com.nopcommerce.user.Level_22_Multiple_Environment_Owner.User_03_My_Account()'><b>User_03_My_Account</b><br>Test class: com.nopcommerce.user.Level_22_Multiple_Environment_Owner<br/>
+<a href="#Output-2103450069" onClick='toggleBox("Output-2103450069", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2103450069" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2103450069">
+[INFO ] [2023-02-07 15:19:15,839] My Account - Step 01: Navigate to 'My Account' page
+<br><br/>
+[INFO ] [2023-02-07 15:19:16,807] My Account - Step 02: Verify 'Customer Info' page is displayed
+<br><br/>
+[INFO ] [2023-02-07 15:19:16,871] My Account- Step 03: Verify 'First Name' value is correctly
+<br><br/>
+[INFO ] [2023-02-07 15:19:16,911] My Account- Step 04: Verify 'Last Name' value is correctly
+<br><br/>
+[INFO ] [2023-02-07 15:19:16,969] My Account- Step 05: Verify 'Email' value is correctly
+<br><br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.nopcommerce.user.Level_22_Multiple_Environment_Owner@74ad8d05</td></tr>
+</table><p>
+</body>
+</html>

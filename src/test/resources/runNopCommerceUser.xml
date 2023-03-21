@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- // suite name có thể chuyển thành project name , name = "Suite" -> name 
+	= "Nopcommerce" , parallel bỏ đi hoặc để đó cũng đc -->
+
+<suite parallel="false" name="NopCommerce">
+
+
+	<listeners>
+		<listener class-name="common.MethodListener" />
+	</listeners>
+	
+	<!-- Global dynamic environment for Java Owner -->
+	<parameter name="environment" value="DEV" />
+	
+	
+	<test name="Run On Chrome">
+	
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.nopcommerce.user.Level_22_Multiple_Environment_Owner" />
+		</classes>
+		
+	</test>
+	
+</suite> <!-- Suite -->

@@ -1,0 +1,38 @@
+{
+	"firstname": "Automation",
+ 	"lastname": "FC", 
+	"date": "24",
+	"month": "11",
+	"year" : "1994",
+	"emailAddress": "automationfc",
+	"password": "123456",
+	"login":{
+	
+		"username": "automation",
+		"password": "123456"
+	},
+	
+	"subjects": [
+	
+		{
+			"name": "Math",
+			"point": 10.0
+		
+		},
+		
+		{
+			"name": "Physical",
+			"point": 8.0
+		
+		},
+		
+		{
+			"name": "Chemistry",
+			"point": 6.5
+		
+		}
+			
+	]
+}
+
+	
