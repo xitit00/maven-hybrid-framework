@@ -622,3 +622,53 @@ Session ID: 59f0bfc9252a486a80694730f9d52ec9
 [INFO ] [2023-02-07 15:19:16,969] My Account- Step 05: Verify 'Email' value is correctly
 [INFO ] [2023-02-07 15:19:17,031] OS name = mac os x
 [INFO ] [2023-02-07 15:19:17,032] Driver instance name = chromedriver: chrome on mac (48e731faabcda06157f853240d948a44)
+[INFO ] [2023-03-23 11:54:13,514] Register - Step 01: Navigate to 'Register' page
+[INFO ] [2023-03-23 11:54:14,275] Register - Step 02: Click to Radio Button
+[INFO ] [2023-03-23 11:54:14,396] Register - Step 03: Enter to Firstname textbox with value is 'Automation'
+[INFO ] [2023-03-23 11:54:14,632] Register - Step 04: Enter to Lastname textbox with value is 'FC'
+[INFO ] [2023-03-23 11:54:14,753] Register - Step 05: Select to dropdown DateOfBirthDay with value is '24'
+[INFO ] [2023-03-23 11:54:14,882] Register - Step 06: Select to dropdown DateOfBirthMonth with value is '11'
+[INFO ] [2023-03-23 11:54:14,971] Register - Step 07: Select to dropdown DateOfBirthYear with value is '1994'
+[INFO ] [2023-03-23 11:54:15,060] Register - Step 08: Enter to Email textbox with value is 'automationfc95334@fakemail.com'
+[INFO ] [2023-03-23 11:54:15,240] Register - Step 09: Enter to Password textbox with value is '123456'
+[INFO ] [2023-03-23 11:54:15,345] Register - Step 10: Enter to Confirm Password textbox with value is '123456'
+[INFO ] [2023-03-23 11:54:15,442] Register - Step 11: Click to Check Box
+[INFO ] [2023-03-23 11:54:25,493] Register - Step 12: Click to 'Register' button
+[INFO ] [2023-03-23 11:54:26,291] Register - Step 13: Verify register success message is displayed
+[INFO ] [2023-03-23 11:54:26,430] Login - Step 01: Navigate to 'Login' page
+[INFO ] [2023-03-23 11:54:26,885] Login - Step 02: Enter to Email textbox with value is 'automationfc95334@fakemail.com'
+[INFO ] [2023-03-23 11:54:26,985] Login - Step 03: Enter to Password textbox with value is '123456'
+[INFO ] [2023-03-23 11:54:27,085] Login - Step 04: Click to 'Login' button
+[INFO ] [2023-03-23 11:54:28,346] Login - Step 05: Verify login success message is displayed
+[INFO ] [2023-03-23 11:54:28,390] My Account - Step 01: Navigate to 'My Account' page
+[INFO ] [2023-03-23 11:54:28,799] My Account - Step 02: Verify 'Customer Info' page is displayed
+[INFO ] [2023-03-23 11:54:28,857] My Account- Step 03: Verify 'First Name' value is correctly
+[INFO ] [2023-03-23 11:54:28,891] My Account- Step 04: Verify 'Last Name' value is correctly
+[INFO ] [2023-03-23 11:54:28,925] My Account- Step 05: Verify 'Email' value is correctly
+[INFO ] [2023-03-23 11:54:28,962] OS name = mac os x
+[INFO ] [2023-03-23 11:54:28,963] Driver instance name = chromedriver: chrome on mac (b577102a0cc8d10080181d52550a187c)
+[INFO ] [2023-03-23 12:41:29,741] Register - Step 01: Navigate to 'Register' page
+[INFO ] [2023-03-23 12:41:30,324] Register - Step 02: Click to Radio Button
+[INFO ] [2023-03-23 12:41:30,433] Register - Step 03: Enter to Firstname textbox with value is 'Automation'
+[INFO ] [2023-03-23 12:41:30,651] Register - Step 04: Enter to Lastname textbox with value is 'FC'
+[INFO ] [2023-03-23 12:41:30,757] Register - Step 05: Select to dropdown DateOfBirthDay with value is '24'
+[INFO ] [2023-03-23 12:41:30,898] Register - Step 06: Select to dropdown DateOfBirthMonth with value is '11'
+[INFO ] [2023-03-23 12:41:30,992] Register - Step 07: Select to dropdown DateOfBirthYear with value is '1994'
+[INFO ] [2023-03-23 12:41:31,083] Register - Step 08: Enter to Email textbox with value is 'automationfc75784@fakemail.com'
+[INFO ] [2023-03-23 12:41:31,266] Register - Step 09: Enter to Password textbox with value is '123456'
+[INFO ] [2023-03-23 12:41:31,372] Register - Step 10: Enter to Confirm Password textbox with value is '123456'
+[INFO ] [2023-03-23 12:41:31,473] Register - Step 11: Click to Check Box
+[INFO ] [2023-03-23 12:41:41,530] Register - Step 12: Click to 'Register' button
+[INFO ] [2023-03-23 12:41:43,051] Register - Step 13: Verify register success message is displayed
+[INFO ] [2023-03-23 12:41:43,201] Login - Step 01: Navigate to 'Login' page
+[INFO ] [2023-03-23 12:41:43,792] Login - Step 02: Enter to Email textbox with value is 'automationfc75784@fakemail.com'
+[INFO ] [2023-03-23 12:41:43,893] Login - Step 03: Enter to Password textbox with value is '123456'
+[INFO ] [2023-03-23 12:41:43,992] Login - Step 04: Click to 'Login' button
+[INFO ] [2023-03-23 12:41:44,701] Login - Step 05: Verify login success message is displayed
+[INFO ] [2023-03-23 12:41:44,746] My Account - Step 01: Navigate to 'My Account' page
+[INFO ] [2023-03-23 12:41:45,161] My Account - Step 02: Verify 'Customer Info' page is displayed
+[INFO ] [2023-03-23 12:41:45,205] My Account- Step 03: Verify 'First Name' value is correctly
+[INFO ] [2023-03-23 12:41:45,240] My Account- Step 04: Verify 'Last Name' value is correctly
+[INFO ] [2023-03-23 12:41:45,275] My Account- Step 05: Verify 'Email' value is correctly
+[INFO ] [2023-03-23 12:41:45,310] OS name = mac os x
+[INFO ] [2023-03-23 12:41:45,311] Driver instance name = chromedriver: chrome on mac (1cdf0edc20ab6ce68979bb1202448b2a)

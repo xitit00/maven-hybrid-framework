@@ -1,94 +1,94 @@
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/common/BasePage.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserLoginPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/AllureTestListener.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserMyAccountPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/utilities/DataHelper.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/common/BrowserList.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/saucelab/ProductPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/common/TestNGAppender.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/wordpress/UserPostSearchPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageFactory/HomePageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ExtentReportListenerV2.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/UserProductReviewPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/common/VerificationFailures.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ExtentTestListenerV4.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/saucelab/PageGeneratorManager.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/wordpress/AdminPostAddNewPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ExtentTestManagerV5.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/facebook/LoginPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/jQuery/uploadFile/PageGeneratorManager.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/facebook/LoginPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/UserProductPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/wordpress/UserHomePageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/UserMyAccountPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ExtentTestListenerV3.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/BasePageNopCommerceUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/liveguru/AdminLoginPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ExtentManagerV5.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ExtentManagerV2.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/utilities/ExcelHelper.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/saucelab/LoginPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/common/BaseTest.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/utilities/MailHelper.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserMyProductReviewPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/jQuery/uploadFile/HomePageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageFactory/LoginPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserProductPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/liveguru/HomePageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/jQuery/dataTable/HomePageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/UserComputersPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserDesktopsPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/saucelab/ProductPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/AdminPostTagPO.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserRewardPointPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/utilities/Environment.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/AdminPostCategoriesPO.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/jQuery/dataTable/HomePageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/UserHomePageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ExtentManagerV3.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/UserDesktopsPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/admin/AdminLoginPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/AdminLoginPO.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/wordpress/AdminPostTagPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/wordpress/AdminLoginPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/jQuery/uploadFile/BasePageJQueryUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ReportNGListener.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/admin/AdminDashboardPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/common/GlobalConstants.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/liveguru/user/HomePageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageFactory/RegisterPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserHomePageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/jQuery/dataTable/PageGeneratorManager.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/wordpress/AdminDashboardPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserAddressPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/UserPostSearchPO.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserComputersPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/common/EnvironmentList.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/AdminDashboardPO.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/UserHomePO.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserProductReviewPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/common/MethodListener.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/wordpress/UserPostDetailPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/AdminPostAddNewPO.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/PageGeneratorManager.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/saucelab/LoginPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/UserPostDetailPO.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/UserCustomerInfoPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/wordpress/AdminPostSearchPO.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/admin/AdminLoginPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/UserLoginPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/wordpress/AdminPostCategoriesPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/utilities/JDBCHelper.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/utilities/JsonHelper.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/common/PageGeneratorManager.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/facebook/PageGeneratorManager.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/wordpress/AdminPostSearchPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ExtentTestListenerV5.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/user/UserRegisterPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/nopCommerce/admin/AdminDashboardPageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/reportConfig/ExtentTestListenerV2.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserCustomerInfoPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/jQuery/uploadFile/HomePageUI.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/liveguru/PageGeneratorManager.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageObjects/nopCommerce/user/UserRegisterPageObject.java
-/Users/anhnguyen/Documents/Selenium/04-Maven Hybrid Framework/src/main/java/pageUIs/liveguru/admin/AdminLoginPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/liveguru/PageGeneratorManager.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/liveguru/admin/AdminLoginPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ExtentManagerV2.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ExtentTestListenerV4.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserMyProductReviewPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/UserMyAccountPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/saucelab/PageGeneratorManager.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageFactory/LoginPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/AdminDashboardPO.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserAddressPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserRewardPointPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/common/TestNGAppender.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/saucelab/ProductPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/jQuery/uploadFile/HomePageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ExtentTestListenerV5.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/admin/AdminDashboardPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/AdminPostSearchPO.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/common/BaseTest.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/jQuery/dataTable/PageGeneratorManager.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ExtentManagerV3.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/AdminPostAddNewPO.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/wordpress/UserHomePageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/liveguru/user/HomePageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/jQuery/uploadFile/PageGeneratorManager.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/UserPostDetailPO.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/UserPostSearchPO.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/saucelab/LoginPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/UserHomePageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserCustomerInfoPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/utilities/DataHelper.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/common/EnvironmentList.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/wordpress/UserPostSearchPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserRegisterPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/saucelab/LoginPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/wordpress/UserPostDetailPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/wordpress/AdminPostAddNewPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/AdminPostCategoriesPO.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ReportNGListener.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserComputersPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/common/VerificationFailures.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageFactory/RegisterPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/saucelab/ProductPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/facebook/PageGeneratorManager.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/admin/AdminDashboardPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserProductPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/jQuery/dataTable/HomePageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/UserComputersPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/UserProductReviewPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/common/MethodListener.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/UserHomePO.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/utilities/MailHelper.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/wordpress/AdminPostTagPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/jQuery/uploadFile/HomePageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/utilities/Environment.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/AdminPostTagPO.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/facebook/LoginPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/liveguru/AdminLoginPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/utilities/JDBCHelper.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/UserCustomerInfoPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/wordpress/AdminLoginPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ExtentManagerV5.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ExtentTestManagerV5.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/BasePageNopCommerceUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ExtentTestListenerV2.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/liveguru/HomePageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageFactory/HomePageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ExtentReportListenerV2.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/common/GlobalConstants.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserHomePageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserProductReviewPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/wordpress/AdminDashboardPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/UserLoginPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/jQuery/dataTable/HomePageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/ExtentTestListenerV3.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/wordpress/AdminPostSearchPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/utilities/ExcelHelper.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/AdminLoginPO.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/admin/AdminLoginPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/admin/AdminLoginPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/wordpress/PageGeneratorManager.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/common/PageGeneratorManager.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/UserRegisterPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/utilities/JsonHelper.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/UserProductPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/reportConfig/AllureTestListener.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserMyAccountPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserLoginPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/common/BasePage.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/nopCommerce/user/UserDesktopsPageObject.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/wordpress/AdminPostCategoriesPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/common/BrowserList.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/nopCommerce/user/UserDesktopsPageUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageUIs/jQuery/uploadFile/BasePageJQueryUI.java
+/Users/anhnguyen/maven-hybrid-framework/src/main/java/pageObjects/facebook/LoginPageObject.java
